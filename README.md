@@ -6,7 +6,7 @@ video filters with embedded transparent metadata of IP origin as a QR code or no
 
 # unknown source of video,
 
-# unseen layer while the video is running
+# unseen layer while the video is running (if this video example was a video broadcast not licensed or authroized by an entity to be transmitted)
 
 ![s1](https://github.com/c4pt000/webcam-videos-and-static-photo-to-know-origin-even-if-unknown/blob/main/video.gif?raw=true)
 
