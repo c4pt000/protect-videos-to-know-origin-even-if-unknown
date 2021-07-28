@@ -3,6 +3,7 @@
 # protect-videos-to-know-origin-even-if-unknown
 
 video filters with embedded transparent metadata of IP origin as a QR code or not as an embedded layer to uncover the source of video being transmitted illegally as a source of a privacy violation,
+the possibility of image recognition technology to identify a person if they are present in video being transmitted as a privacy violation as part of the hidden layer of video encoded as part of the metadata 
 
 # unknown source of video,
 
